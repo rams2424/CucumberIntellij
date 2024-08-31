@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","14420","Validate new user is able to view after clicking on new Registration","","Sat Aug 31 16:17:05 IST 2024","passed","Sat Aug 31 16:17:20 IST 2024","","New User Registration View","Validate new user is able to view after clicking on new Registration",""
+"","13957","Validate user is able to view after login","","Sat Aug 31 16:16:51 IST 2024","passed","Sat Aug 31 16:17:05 IST 2024","","LoggedIn User View","Validate user is able to view after login",""
+"","17204","Validate general user is able to view products without logging in","","Sat Aug 31 16:16:34 IST 2024","passed","Sat Aug 31 16:16:51 IST 2024","","General View","Validate general user is able to view products without logging in",""
+"","18176","Validate general user is able to view products without logging in","","Sat Aug 31 16:16:33 IST 2024","passed","Sat Aug 31 16:16:51 IST 2024","","","",""
+"","14475","Validate new user is able to view after clicking on new Registration","","Sat Aug 31 16:17:05 IST 2024","passed","Sat Aug 31 16:17:20 IST 2024","","","",""
+"","13998","Validate user is able to view after login","","Sat Aug 31 16:16:51 IST 2024","passed","Sat Aug 31 16:17:05 IST 2024","","","",""
